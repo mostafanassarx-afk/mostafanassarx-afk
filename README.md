@@ -19,10 +19,12 @@
 ---
 
 ### 📈 GitHub Stats
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafanassarx-afk&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafanassarx-afk&layout=compact&theme=dark)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=mostafanassarx-afk&show_icons=true&theme=dark&hide_border=false" alt="Mostafa's stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafanassarx-afk&layout=compact&theme=dark" alt="Top Langs" />
+</p>
 
 ---
 
 ### 📫 Reach Me:
-[LinkedIn](www.linkedin.com/in/mostafanassarx) | [Email](mailto:mostafa.nassar.mn2@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mostafanassarx) | [Email](mailto:mostafa.nassar.mn2@gmail.com)
