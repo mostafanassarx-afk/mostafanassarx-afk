@@ -1,5 +1,5 @@
-# Hi, I'm Mostafa Nassar 👋
-### Aspiring Data Analyst 📊
+# 🌍 Welcome to Mostafa Nassar's World
+### Data Analyst | Insight Hunter 🔍
 
 - 📊 Passionate about turning complex data into clear, actionable insights.
 - 🛠️ Currently building projects using *Python, SQL, and Power BI*.
