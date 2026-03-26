@@ -25,4 +25,4 @@
 ---
 
 ### 📫 Reach Me:
-[LinkedIn](رابط_بروفايلك_هنا) | [Email](mailto:mostafa.nassar.mn2@gmail.com)
+[LinkedIn](www.linkedin.com/in/mostafanassarx) | [Email](mailto:mostafa.nassar.mn2@gmail.com)
