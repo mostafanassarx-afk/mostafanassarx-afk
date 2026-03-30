@@ -20,8 +20,8 @@
 
 ### 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mostafanassarx-afk&show_icons=true&theme=dark&hide_border=false" alt="Mostafa's stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafanassarx-afk&layout=compact&theme=dark" alt="Top Langs" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mostafanassarx-afk&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mostafanassarx-afk&layout=compact&theme=dark" />
 </p>
 
 ---
